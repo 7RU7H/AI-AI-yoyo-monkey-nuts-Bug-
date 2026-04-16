@@ -1,4 +1,4 @@
-# AI AI yoyo monkey nuts Bug 
+# AI AI yoyo monkey nuts Bug ?
 
 Using my Ultra Prompts I may have found a bug. I generated this with Ultra-Prompt guess which from doing your job and don't pay me or something
 
