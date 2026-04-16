@@ -1,5 +1,7 @@
 # AI AI yoyo monkey nuts Bug ?
 
+![](Noodles and laughter at Panda Express.png)
+
 Using my Ultra Prompts I may have found a bug. I generated this with Ultra-Prompt guess which from doing your job and don't pay me or something
 
 ![](2026-04-16_15-00.png)
