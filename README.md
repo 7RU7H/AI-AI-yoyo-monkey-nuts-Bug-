@@ -2,6 +2,13 @@
 
 Using my Ultra Prompts I may have found a bug. I generated this with Ultra-Prompt guess which from doing your job and don't pay me or something
 
+![](2026-04-16_15-00.png)
+
+I tried regularly trying to make the same thing created as text by another AI Agent
+![](2026-04-16_15-02.png)
+
+So now I am in a bit of fix given that I want to create images that I am freely entitled to with my account privileges.
+
 ## Internal State Update
 `LOAD R_ATTUNE, FOCUSED`
 `LOAD R_TRUST, 75`
